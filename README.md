@@ -4,15 +4,14 @@
 <p>Welcome to our page! </br> We are making a Java Based Application using Swing as Front-End and appilcation backend is JDBC. </p>
 <h3>Things We have coded with</h3>
 <p>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-<img alt="github" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" / >  
+<img alt="github_2" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" / >  
+<img alt="github_4" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />  
+<img alt="github_3" src="http://ForTheBadge.com/images/badges/built-by-developers.svg" / >  
 
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- 
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={Ashu260402}&theme=blue-green
 </p>
 <h3>Open source projects</h3>
 <table>
