@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://wallpaperaccess.com/full/3847372.jpg" alt="Logo" width="500" height="500">
+    <img src="https://wallpaperaccess.com/full/3847372.jpg" alt="Logo" width="320" height="300">
   </a>
 
   <h3 align="center">Java Book Management System</h3>
