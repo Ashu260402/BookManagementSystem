@@ -4,9 +4,10 @@
 <p>Welcome to our page! </br> We are making a Java Based Application using Swing as Front-End and appilcation backend is JDBC. </p>
 <h3>Things We have coded with</h3>
 <p>
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="github" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img alt="github" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" / >  
 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  
