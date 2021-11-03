@@ -1,4 +1,4 @@
-<h1><img src="https://c.tenor.com/vDtqjv47FsIAAAAC/book-school.gif" width="100" height="100"/> Java Project -- Book Management System</h1>
+<h1><img src="https://i.gifer.com/origin/89/89cc4f259dac5a7a3b07cff958ddec7e.gif" width="100" height="100"/> Java Project -- Book Management System</h1>
 
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
