@@ -1,8 +1,6 @@
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
+***This Project is a part of our Course Curriculum in which we create a Java Based Book application
+***in which we use Java Swing as Front-End and we connect it with JDBC i.e-Back-End.
 -->
 
 
