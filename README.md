@@ -11,10 +11,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://www.wallpaperup.com/uploads/wallpapers/2014/02/27/280421/d272c0197b866ef5822c9c457d2f0f51-700.jpg" alt="Logo" width="80" height="80">
+    <img src="https://www.wallpaperup.com/uploads/wallpapers/2014/02/27/280421/d272c0197b866ef5822c9c457d2f0f51-700.jpg" alt="Logo" width="100" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Java Book Management System</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
